@@ -1,0 +1,146 @@
+.white{
+	background-color: white;
+	height: 130px;
+	position: fixed;
+	width: 100%;
+	z-index: 15;
+}
+
+.academy {
+	color: #192951;
+	font-size: 24px;
+	position: relative;
+	left: 345px;
+	top: 32px;
+}
+nav{
+	position: relative;
+	top: 53px;
+	right: 80px;
+	font-size: 15px;
+}
+
+ul li {
+	display: inline-block;
+	margin:35px;
+
+}
+a{
+	color: grey;
+}
+.pad{
+	padding-top: 200px;
+}
+.clases {	
+	background-image: url("../img/textura_2.jpg");
+	position: relative;
+	padding-bottom: 90px;
+	background-repeat:none;
+}
+.primerafila{
+	margin-top: 40px;
+}
+.titulo{
+	text-align: center;
+}
+.cajataller{
+	height: 250px;
+	width: 1000px;
+	background-color:#CCCFD4;
+	position: relative;
+	background-image: url("../img/blog1.jpg");
+	background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.cajataller2{
+	height: 250px;
+	width: 1000px;
+	background-color:#CCCFD4;
+	position: relative;
+	background-image: url("../img/profesor_5jpg.jpg");
+    background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.cajataller3{
+	height: 250px;
+	width: 1000px;
+	background-color:#CCCFD4;
+	position: relative;
+	background-image: url("../img/instructor_1.jpg");
+    background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.texto{
+	padding-top: 30px;
+	margin-left: 350px;
+}
+.talleres{
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+.date{
+	font-size: 9px;
+	color: grey;
+	font-family: italic;
+}
+.fecha{
+	font-style: italic;
+}
+.look{
+	height: 50px;
+	width:250px;
+	background-color:#00214d;
+	border-radius: 5px;
+	font-size: 22px;
+	text-align:center;
+	color:white;
+}
+.msj{
+	color:#00214d;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.contactanos {
+	color: #2F3D61;
+	font-size: 30px;
+	font-weight: bold;
+}
+.balletshoes {
+    background: url("../img/shoes_1.jpg")no-repeat;
+    background-size: 60% 100%;
+    height: 587px;
+    background-position: 470px 0px;
+    padding: 80px 0px;
+}
+input, .messaje {
+	display: block;
+	width: 450px;
+	padding: 7px 34px;
+	margin: 12px 0px;
+	border-radius: 3px;
+	border: 1px #ccc solid;
+}
+.fa-envelope, .fa-pencil, .fa-user {
+	position: absolute;
+	margin: 8px 10px;
+}
+.enviar {
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}
+.end{
+	background-color: #192951;
+	height: 70px;
+}
+.final{
+	color: white;
+	font-size:13px;
+	position: relative;
+	right: 80px;
+	top: 26px;
+}
+
+
